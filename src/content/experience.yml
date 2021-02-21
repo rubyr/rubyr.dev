@@ -1,0 +1,32 @@
+- title: BestFit, Inc.
+  emoji: 👩‍🎓
+  content: |
+    **​Front End Engineer**
+    FEB 2021 - PRESENT
+    REMOTE 
+    - Leading development of a new customer-facing dashboard, including refactoring and updating existing pages and building new pages from scratch
+    - Working closely with a UX designer to refresh the design of existing pages, including removing old technologies
+    **Software Engineering Fellow (Front End)**
+    OCT 2020 - JAN 2021
+    REMOTE
+    - Refactored core UI elements out of an existing project and into a reusable component library
+    - Designed and implemented a new component testing suite that automated accessibility tests, improved performance, and reduced technical debt utilizing Storybook + Chromatic
+    - Collaborated on the build of a new customer-facing dashboard utilizing React + GraphQL through Gatsby
+  links:
+    - href: https://best-fit.app
+      name: bestfit website
+
+- title: Turing School of Software and Design
+  emoji: 💻
+  content: |
+    **​Front End Engineering**
+    JANUARY 2020 - AUGUST 2020
+    DENVER, CO / REMOTE
+    - Developed 15+ web applications over the course of a 7 month, full-time plus program
+    - Followed an agile workflow, often working within a team environment, in order to create programs both following a design document and of our own design
+    - Learned web design, HTML, CSS, JS, jQuery, React, Redux, GraphQL, and Git
+  links:
+    - href: https://turing.io/
+      name: Official website
+    - href: https://alumni.turing.io/alumni/ruby-rinken
+      name: Alumni portfolio page

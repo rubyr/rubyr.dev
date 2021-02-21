@@ -1,0 +1,24 @@
+- title: adhd
+  emoji: 😰
+  content: >
+    a "game" developed over the course of a week, loosely based off of my own 
+    experiences with adhd. it can get hard!
+  links:
+    - href: https://github.com/rubyr/adhd
+      name: github
+    - href: https://adhd.ruby.games
+      name: game link
+- title: TMATE2
+  emoji: 💥
+  content: >
+    TMATE2 is a webapp that aims to preserve the legacy of
+    [The Most Awesomest Thing Ever](http://www.mostawesomestthingever.com/),
+    which unfortunately, uses Adobe Flash, and as such doesn't currently work.
+    This app was made over the span of four days, and uses the entirety of the
+    English Wikipedia, so some comparisons that come up may be asinine or
+    obscure. This is intentional.
+  links:
+    - href: https://github.com/rubyr/tmate2
+      name: github
+    - href: https://rubyr.github.io/tmate2/
+      name: site link

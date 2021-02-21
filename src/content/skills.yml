@@ -1,0 +1,35 @@
+languages: 
+  - TypeScript
+  - JavaScript (ES6+)
+  - C#
+  - Python
+  - CSS
+  - SASS/SCSS
+frameworks​:
+  - React.js
+  - Gatsby
+  - Node.js
+  - Express
+  - jQuery
+  - Redux
+  - Vue.js
+  - Next.js
+  - Svelte
+architecture​:
+  - RESTful APIs
+  - GraphQL
+  - Linux/Unix
+  - CMS
+workflow​:
+  - Git
+  - GitHub
+  - Heroku
+  - Travis CI
+  - Agile
+  - Chromatic
+  - Github Actions
+testing​:
+  - Jest
+  - Mocha
+  - Chai
+  - Storybook
