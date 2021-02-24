@@ -6,6 +6,7 @@
   export let projects: Card[];
   export let skills: {[x: string]: string[]};
   export let experiences: Card[];
+  export let links: {[x: string]: string};
 </script>
 
 <Header />
@@ -16,6 +17,11 @@
       I've been programming for over four years; and I've been interested in
       technology for a lot longer.
     </p>
+    <ul class="links">
+      {#each Object.entries(links) as [name, href]}
+        <li><a {href}>{name}</a></li>
+      {/each}
+    </ul>
   </section>
   <section>
     <section class="skills">
@@ -62,6 +68,26 @@
       h2, h3, p
         &:last-child
           margin-bottom: 0
+
+  .links 
+    list-style: none
+    display: flex
+    justify-content: center
+    margin: 0
+    padding: 0
+
+    li
+      display: inline
+
+      &:not(:last-child)
+        margin-right: 1rem
+
+      a
+        color: #C8E9F9
+        &:visited
+          color: #D6E3F3
+        &:hover
+          color: #fff
 
   .skills
     display: flex
