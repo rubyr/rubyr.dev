@@ -22,3 +22,14 @@
       name: github
     - href: https://rubyr.github.io/tmate2/
       name: site link
+- title: this site
+  emoji: 📕
+  content: >
+    Yes, this very site has a section about itself. because i'm quite proud of
+    how it's made! under the hood, it uses Svelte + typescript, and the styles
+    are written in SASS.
+  links:
+    - href: https://github.com/rubyr/rubyr.dev
+      name: github
+    - href: https://rubyr.dev
+      name: site link
