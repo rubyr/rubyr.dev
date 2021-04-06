@@ -18,7 +18,7 @@
 <svelte:window on:scroll={onScroll} />
 
 <header>
-  <h1 style={h1Style}>hi i'm ruby</h1>
+  <h1 style={h1Style}>hi, i'm ruby</h1>
 </header>
 
 <style type="text/sass">
