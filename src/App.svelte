@@ -58,7 +58,7 @@
     & > section
       padding: 1rem
       margin: 1rem
-      background: rgba(0,0,0,0.25)
+      background: rgba(0,0,0,0.4)
       border-radius: 0.5rem
 
       & > h2:first-child
@@ -83,9 +83,9 @@
         margin-right: 1rem
 
       a
-        color: #C8E9F9
+        color: #86c1ef
         &:visited
-          color: #D6E3F3
+          color: #bad8ef
         &:hover
           color: #fff
 
